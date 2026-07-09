@@ -63,7 +63,7 @@ The Movie Database API (TMDB)
 ## ⚠ Disclaimer
 
 This website does not host or distribute movies. All movie information such as posters, ratings, and descriptions are provided by TMDB API.
-
+##project update
 ## 📜 License
 
 This project is for educational and portfolio purposes.
